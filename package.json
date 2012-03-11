@@ -1,0 +1,9 @@
+{
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "name": "wiki-panel",
+    "contributors": [],
+    "author": "Myk Melez",
+    "keywords": [],
+    "description": "Displays Wikipedia in a panel.",
+    "id": "anonid0-wiki-panel"
+}
